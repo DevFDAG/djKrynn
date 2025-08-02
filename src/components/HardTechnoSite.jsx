@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import "../styles/HardTechnoSite.css";
+import "../styles/HardtechnoSite.css";
 import logo from "../assets/logo.jpg";
 
 export default function HardTechnoSite({ children }) {
